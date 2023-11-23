@@ -28,5 +28,5 @@ fn main() {
         home: Planet::Earth,
     };
 
-    println!("{}", user);
+    println!("{}", user.name);
 }
